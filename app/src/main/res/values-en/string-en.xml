@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appenviar</string>
+    <string name="nt">Enter Name</string>
+    <string name="et">Enter Year</string>
+    <string name="est">Enter Height</string>
+    <string name="estado1t">OFF</string>
+    <string name="estado2">ON</string>
+    <string name="enviar">Submmit</string>
+</resources>

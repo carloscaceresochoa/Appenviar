@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appenviar</string>
+    <string name="nt">entrez le nom</string>
+    <string name="et">entrer lage</string>
+    <string name="est">entrer la hauteur</string>
+    <string name="estado1t">desactive</string>
+    <string name="estado2">Allume</string>
+    <string name="enviar">Envoyer</string>
+</resources>

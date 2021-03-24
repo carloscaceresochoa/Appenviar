@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appenviar</string>
+    <string name="nt">Digite el Nombre</string>
+    <string name="et">Digite la edad</string>
+    <string name="est">Digite estatura</string>
+    <string name="estado1t">Apagado</string>
+    <string name="estado2">Prendido</string>
+    <string name="enviar">Enviar</string>
+</resources>
